@@ -19,10 +19,16 @@
 <p> <img src="https://skillicons.dev/icons?i=mongodb" /> </p>
 🛠️ Tools & Platforms
 <p> <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,npm" /> </p>
+
+### 🚀 Deployment & Hosting
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+</p>
 💡 Core Skills
 ⚡ Asynchronous JavaScript (Async/Await, Promises)
 🧠 Object-Oriented Programming (OOP)
 🔗 RESTful API Development
+🔐 JWT Authentication & Authorization 
 🧩 Component-Based Architecture
 🔄 Advanced State Management
 🧹 Clean Code & Best Practices
@@ -31,23 +37,20 @@
 ⚡ Performance optimization in React
 🧠 Advanced JavaScript concepts
 💼 Preparing for Frontend Developer roles
-🛠️ Featured Projects
 
-🚧 (Add your real deployed projects here — very important for jobs)
+## 📊 GitHub Stats
 
-🔹 E-commerce Platform (MERN Stack)
-🔹 Task Manager with Auth (JWT + Redux)
-🔹 Blog App with REST APIs
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" /> </p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=iamdsingh10&show_icons=true&theme=tokyonight" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=iamdsingh10&theme=tokyonight" 
+    height="160"
+  />
+</p>
+
 🧠 Developer Philosophy
+I don’t just write code, I build scalable solutions.
 
-“I don’t just write code, I build scalable solutions.”
-
-🚀 Goals
-🔥 Become a top 1% Frontend Developer
-💼 Crack a high-paying developer job
-🧠 Master system design & scalable architecture
-⚡ Fun Fact
-
-I’m consistent, disciplined, and focused on becoming industry-ready every single day 🚀
