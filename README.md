@@ -1,39 +1,67 @@
-## Hi there I'm Deepak Singh
+# 👋 Hi, I'm Deepak Singh  
 
+🚀 MERN Stack Developer | Frontend Specialist | Building Scalable Web Applications  
 
-🚀 MERN Stack Developer | Frontend Specialist | Building Scalable Web Apps
+---
 
-📫 Connect With Me
-<p align="left"> <a href="mailto:iamdsingh10@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/iamdsingh10/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-🧑‍💻 Tech Stack
-🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,react" /> </p>
-🔄 State Management
-<p> <img src="https://skillicons.dev/icons?i=redux" /> <img src="https://img.shields.io/badge/Thunk-764ABC?style=for-the-badge" /> <img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" /> </p>
-⚙️ Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
-🗄️ Database
-<p> <img src="https://skillicons.dev/icons?i=mongodb" /> </p>
-🛠️ Tools & Platforms
-<p> <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,npm" /> </p>
+## 📫 Connect With Me
 
-### 🚀 Deployment & Hosting
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+<p align="left">
+  <a href="mailto:iamdsingh10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/iamdsingh10/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-💡 Core Skills
-⚡ Asynchronous JavaScript (Async/Await, Promises)
-🧠 Object-Oriented Programming (OOP)
-🔗 RESTful API Development
-🔐 JWT Authentication & Authorization 
-🧩 Component-Based Architecture
-🔄 Advanced State Management
-🧹 Clean Code & Best Practices
-📌 Current Focus
-🚀 Building production-level MERN applications
-⚡ Performance optimization in React
-🧠 Advanced JavaScript concepts
-💼 Preparing for Frontend Developer roles
+
+---
+
+## 🧑‍💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,git,github,gitlab,vscode,npm,vercel,netlify" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Redux_Thunk-764ABC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge" />
+</p>
+
+---
+
+## 💡 Core Skills
+
+- ⚡ Asynchronous JavaScript (Async/Await, Promises)  
+- 🧠 Object-Oriented Programming (OOP)  
+- 🔗 RESTful API Development  
+- 🔐 JWT Authentication & Authorization  
+- 🧩 Component-Based Architecture  
+- 🔄 Advanced State Management  
+- 🧹 Clean Code & Best Practices  
+
+---
+
+## 📌 Current Focus
+
+- 🚀 Building production-level MERN applications  
+- ⚡ Performance optimization in React  
+- 🧠 Strengthening problem-solving skills  
+- 💼 Preparing for Frontend Developer roles  
+
+---
+
+## 🛠️ Featured Projects
+
+🚧 *(Add your real deployed projects here)*  
+
+- 🔹 E-commerce Platform (MERN Stack)  
+- 🔹 Task Manager with JWT Authentication  
+- 🔹 Blog Application (React + Node.js)  
+
+---
 
 ## 📊 GitHub Stats
 
@@ -48,6 +76,23 @@
   />
 </p>
 
-🧠 Developer Philosophy
-I don’t just write code, I build scalable solutions.
+---
+
+## 🧠 Developer Philosophy
+
+> “I don’t just write code, I build scalable solutions.”
+
+---
+
+## 🚀 Goals
+
+- 🔥 Become a top Frontend Developer  
+- 💼 Land a high-paying developer job  
+- 🧠 Master advanced system design  
+
+---
+
+## ⚡ Fun Fact
+
+I work every day to improve my skills and become industry-ready 🚀
 
