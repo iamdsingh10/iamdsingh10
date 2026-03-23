@@ -1,8 +1,5 @@
-## Hi there 
+## Hi there I'm Deepak Singh
 
-
-
-👋 Hi, I'm Deepak Singh
 
 🚀 MERN Stack Developer | Frontend Specialist | Building Scalable Web Apps
 
